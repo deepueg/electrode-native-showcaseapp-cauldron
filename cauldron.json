@@ -11,14 +11,30 @@
               "ernPlatformVersion": "1000.0.0",
               "isReleased": false,
               "binary": null,
-              "yarnLocks": {},
-              "nativeDeps": [],
-              "miniApps": {
-                "container": []
+              "yarnLocks": {
+                "container": "2d0f80ff4e9abb913ba193f865d9f151499bb3ad"
               },
-              "codePush": {}
+              "nativeDeps": [
+                "react-native@0.50.1",
+                "react-native-electrode-bridge@1.5.9",
+                "react-native-ernmovie-api@0.0.9",
+                "react-native-ernnavigation-api@0.0.4"
+              ],
+              "miniApps": {
+                "container": [
+                  "movielistminiapp@0.0.8",
+                  "moviedetailsminiapp@0.0.7"
+                ]
+              },
+              "codePush": {},
+              "containerVersion": "1.0.0"
             }
-          ]
+          ],
+          "config": {
+            "containerGenerator": {
+              "containerVersion": "1.0.0"
+            }
+          }
         }
       ]
     }
