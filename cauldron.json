@@ -33,17 +33,7 @@
           "config": {
             "containerGenerator": {
               "containerVersion": "1.0.0"
-            },
-            "publishers": [
-              {
-                "name": "github",
-                "url": "git@github.com:deepueg/electrode-native-showcaseapp-cauldron.git"
-              },
-              {
-                "name": "maven",
-                "url": "file:///Users/d0g00g4/.m2/repository"
-              }
-            ]
+            }
           }
         }
       ]
