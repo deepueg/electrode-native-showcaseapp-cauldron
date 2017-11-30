@@ -37,6 +37,10 @@
                 {
                   "name": "maven",
                   "url": "http://mobilebuild.homeoffice.wal-mart.com:8081/nexus/content/repositories/hosted"
+                },
+                {
+                  "name": "github",
+                  "url": "git@github.com:deepueg/electrode-native-showcaseapp-android-container.git"
                 }
               ]
             }
