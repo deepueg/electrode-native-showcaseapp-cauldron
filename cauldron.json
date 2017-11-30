@@ -18,7 +18,8 @@
                 "react-native@0.50.1",
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
-                "react-native-ernnavigation-api@0.0.4"
+                "react-native-ernnavigation-api@0.0.4",
+                "react-native-ernmovie-api-impl-js"
               ],
               "miniApps": {
                 "container": [
@@ -27,13 +28,13 @@
                 ]
               },
               "codePush": {},
-              "containerVersion": "1.0.2",
-              "yarnlock": "0b03e4e032558b9ec336769b10f283738452c374"
+              "containerVersion": "1.0.3",
+              "yarnlock": "c9389768645cda20683b59eaf12d85d0d810d250"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.2",
+              "containerVersion": "1.0.3",
               "publishers": [
                 {
                   "name": "maven",
