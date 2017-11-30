@@ -37,6 +37,10 @@
                 {
                   "name": "github",
                   "url": "git@github.com:deepueg/electrode-native-showcaseapp-cauldron.git"
+                },
+                {
+                  "name": "maven",
+                  "url": "http://mobilebuild.homeoffice.wal-mart.com:8081/nexus/content/repositories/hosted"
                 }
               ]
             }
