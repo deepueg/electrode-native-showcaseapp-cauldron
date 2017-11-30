@@ -22,17 +22,18 @@
               ],
               "miniApps": {
                 "container": [
-                  "movielistminiapp@0.0.8"
+                  "movielistminiapp@0.0.8",
+                  "moviedetailsminiapp@0.0.7"
                 ]
               },
               "codePush": {},
-              "containerVersion": "1.0.1",
-              "yarnlock": "2807574f2d69f81dd24ff8aba58ffae17ba7f559"
+              "containerVersion": "1.0.2",
+              "yarnlock": "0b03e4e032558b9ec336769b10f283738452c374"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.1",
+              "containerVersion": "1.0.2",
               "publishers": [
                 {
                   "name": "maven",
