@@ -12,7 +12,7 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {
-                "container": "1d038af94ae18b8b77119e2ad075fa8dea351a3f"
+                "container": "d8b46ec2ef1a87d526f34f87983be3544583b5b4"
               },
               "nativeDeps": [
                 "react-native@0.50.1",
@@ -24,17 +24,18 @@
               "miniApps": {
                 "container": [
                   "movielistminiapp@0.0.8",
-                  "moviedetailsminiapp@0.0.7"
+                  "moviedetailsminiapp@0.0.7",
+                  "colorpickerdemominiapp@0.0.4"
                 ]
               },
               "codePush": {},
-              "containerVersion": "1.0.6",
+              "containerVersion": "1.0.7",
               "yarnlock": "c9389768645cda20683b59eaf12d85d0d810d250"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.6",
+              "containerVersion": "1.0.7",
               "publishers": [
                 {
                   "name": "maven",
