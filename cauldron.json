@@ -19,7 +19,8 @@
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.4",
                 "react-native-ernmovie-api-impl-js",
-                "react-native@0.51.0"
+                "react-native@0.51.0",
+                "ern-colorpicker-api@0.0.1"
               ],
               "miniApps": {
                 "container": [
@@ -29,13 +30,13 @@
                 ]
               },
               "codePush": {},
-              "containerVersion": "1.0.11",
+              "containerVersion": "1.0.12",
               "yarnlock": "c9389768645cda20683b59eaf12d85d0d810d250"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.11",
+              "containerVersion": "1.0.12",
               "publishers": [
                 {
                   "name": "maven",
