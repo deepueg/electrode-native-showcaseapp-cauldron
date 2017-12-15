@@ -12,30 +12,30 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {
-                "container": "fa39e2c66969e49ea8b87f69912c28e02a81c9ea"
+                "container": "dbb8b4a2a0291555bb6b30b5ca12654f3671297d"
               },
               "nativeDeps": [
-                "react-native@0.50.1",
                 "react-native-electrode-bridge@1.5.9",
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.4",
-                "react-native-ernmovie-api-impl-js"
+                "react-native-ernmovie-api-impl-js",
+                "react-native@0.51.0"
               ],
               "miniApps": {
                 "container": [
-                  "movielistminiapp@0.0.8",
-                  "moviedetailsminiapp@0.0.7",
-                  "colorpickerdemominiapp@0.0.5"
+                  "movielistminiapp@0.0.9",
+                  "moviedetailsminiapp@0.0.8",
+                  "colorpickerdemominiapp@0.0.6"
                 ]
               },
               "codePush": {},
-              "containerVersion": "1.0.9",
+              "containerVersion": "1.0.10",
               "yarnlock": "c9389768645cda20683b59eaf12d85d0d810d250"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.9",
+              "containerVersion": "1.0.10",
               "publishers": [
                 {
                   "name": "maven",
